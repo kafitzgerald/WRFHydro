@@ -30,7 +30,7 @@ each tool set.
 |Repository|Description|Support status|Build status|
 |------|------|-----------|---------|
 [wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | Community repository for the core WRF-Hydro model code | ![](static/badges/Status-Core-green.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_nwm_public.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_nwm_public) |
-[wrf_hydro_arcgis_preprocessor](https://github.com/NCAR/wrf_hydro_arcgis_preprocessor) | ArcGIS preprocessing  tool for the creation of hydrologic data layers and routing grids to support the WRF-Hydro modelling system | ![](static/badges/Status-Core-green.svg) | None |
+[wrf_hydro_arcgis_preprocessor](https://github.com/NCAR/wrf_hydro_arcgis_preprocessor) | Repository for the WRF-Hydro ArcGIS pre-processing system | ![](static/badges/Status-Core-green.svg) | None |
 [wrf_hydro_docker](https://github.com/NCAR/wrf_hydro_docker) | Docker files to support the WRF-Hydro modelling system | ![](static/badges/Status-Core-green.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_docker.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_docker) | 
 [wrf_hydro_training](https://github.com/NCAR/wrf_hydro_training) | Materials from WRF-Hydro training workshops | ![](static/badges/Status-Core-green.svg) | None | 
 [wrf_hydro_py](https://github.com/NCAR/wrf_hydro_py) | Python API for the WRF-Hydro model | ![](static/badges/Status-unsupported-red.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_py.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_py) | 
